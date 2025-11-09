@@ -8,7 +8,7 @@ Average Wait Time: 363 minutes
 Patient Satisfaction Score: 4.96 / 5
 Patients Referred to Departments: 214
 
-##Dashboard Features
+*Dashboard Features
 Admission Status: Breakdown of admitted vs discharged patients
 Age Group Distribution: Patient demographics across five age brackets
 Department Referrals: Referrals to 9 departments including Cardiology, Orthopedics, and Radiology
